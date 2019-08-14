@@ -1,0 +1,40 @@
+{
+    "locale"  : "pt-br",
+    "strName"  : "Thiago Rocha Moreira Paiva",
+    "yyyymmddBirth" : "1986-10-27",
+    "strCity"  : "Praia Grande",
+    "strState"  : "São Paulo",
+    "strCountry"  : "Brasil",
+    "studies" :[
+        {
+            "title" : "Licenciado",
+            "name"  : "Educação Profissional",
+            "school": "Centro Paula Souza",
+            "year"  : 2016
+        },
+        {
+            "title" : "Especialista",
+            "name"  : "Estéticas Tecnológicas",
+            "school": "PUC/SP",
+            "year"  : 2010
+        },
+        {
+            "title" : "Tecnólogo",
+            "name"  : "Processamento de Dados",
+            "school": "FATEC-BS",
+            "year"  : 2006
+        }
+    ],
+    "works":[
+        {
+            "func":"Analista de Sistemas Sênior",
+            "comp":"Município de São Bernardo do Campo",
+            "city": "São Bernardo do Campo",
+            "from":"04/2018",
+            "to":null,
+            "desc":"Desenvolvimento e manutenção de sistemas relacionados à gestão orçamentária e arrecadação municipal da cidade.",
+            "techs":"JavaEE, Maven, SVN, Git, Struts, EJB, Javascript, JQuery, HTML5, CSS, Nodejs"
+        }
+    ]
+    
+}

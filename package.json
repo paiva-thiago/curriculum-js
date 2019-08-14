@@ -1,0 +1,15 @@
+{
+  "name": "curriculum-js",
+  "version": "0.0.1",
+  "description": "a node CV generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Paiva",
+  "license": "MIT",
+  "dependencies": {
+    "markdown-pdf": "^9.0.0",
+    "pdfkit": "^0.10.0"
+  }
+}

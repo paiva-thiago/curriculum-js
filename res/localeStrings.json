@@ -1,0 +1,16 @@
+{
+    "pt-br" : {
+        "years" : "anos",
+        "in"    : "em",
+        "from"  : "de",
+        "to"    : "ate",
+        "since" : "desde"
+    },
+    "en-us" : {
+        "years" : "years old",
+        "in"    : "in",
+        "from"  : "from",
+        "to"    : "to",
+        "since" : "since"
+    }
+}
